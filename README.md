@@ -1,4 +1,4 @@
-# Group challenge
+# Group challenge ( CTW03463, CTW03468, CTW03459)
 **Due by EOD**, only one submission per group, sent by email to Paulo Peixoto (check pulsar or teams for email address):
 - Deploy the Prometheus stack (Prometheus, Alertmanager and Grafana), using Terraform and Ansible on a single `Standard_D2s_v3` VM instance; [x]
 - The Terraform code should be configured to use the cloud provider to store the `tfstate` file;
